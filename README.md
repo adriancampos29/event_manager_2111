@@ -15,7 +15,6 @@ After completing this tutorial, you will be able to:
  * manipulate [file](http://rubydoc.info/stdlib/core/File) input and output
  * read content from a [CSV](http://rubydoc.info/stdlib/csv/file/README.rdoc) (Comma Separated Value) file
  * transform it into a standardized format
- * populate a template with user data
  * manipulate [strings](http://rubydoc.info/stdlib/core/String)
 
 For this project, two data files have been saved to the root of the directory.
