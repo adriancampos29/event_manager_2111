@@ -17,10 +17,10 @@ After completing this tutorial, you will be able to:
  * transform it into a standardized format
  * manipulate [strings](http://rubydoc.info/stdlib/core/String)
 
-For this project, two data files have been saved to the root of the directory.
+For this project, two data files have been saved to the root of the directory:
 
- * `event_attendees.csv`: small sample data file
- * `full_event_attendees.csv`: large sample data file
+ * `event_attendees.csv`: small sample data file (~20 lines)
+ * `full_event_attendees.csv`: large sample data file (5,000+ lines)
  
 ## Iteration 0: Loading a File
  * Read the File Contents
